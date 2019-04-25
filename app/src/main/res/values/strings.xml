@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="entry_note">Masukan catatan</string>
+    <string name="entry_title">Masukkan judul</string>
+    <string name="simpan">Simpan</string>
+    <string name="ubah">Ubah</string>
+    <string name="hapus">Hapus</string>
+    <string name="update">Update</string>
+</resources>
